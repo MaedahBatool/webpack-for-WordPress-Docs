@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: webpack for WordPress
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange red'
+    accent: 'indigo'
